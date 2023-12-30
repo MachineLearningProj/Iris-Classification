@@ -12,7 +12,7 @@ The Iris dataset is a commonly used dataset in machine learning for classificati
 
 * These indicate misclassifications.
 * Check which classes are often confused with each other.
-* 
+  
  **Accuracy Plot:**
   
  **1 Increasing Line:**
