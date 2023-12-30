@@ -38,7 +38,7 @@ The Iris dataset is a commonly used dataset in machine learning for classificati
  **2 Adjust if Needed:**
 
 * If things don't look good, consider adjusting how the model learns (learning rate, epochs) or the model itself (complexity).
-* 
+ 
  **3 Check Data:**
 
 * Ensure your data is prepared well. Maybe some features need more attention.
