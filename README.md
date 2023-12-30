@@ -33,6 +33,9 @@ The Iris dataset is a commonly used dataset in machine learning for classificati
   
 # Overall:
 
+![image](https://github.com/MachineLearningProj/Iris-Classification/assets/154997146/383cc395-816c-481b-9c8c-30e144afe236)
+
+
  **1 Look for Patterns:**
 
 * Check if there are specific classes causing confusion.
