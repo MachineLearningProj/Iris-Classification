@@ -3,6 +3,9 @@
 The Iris dataset is a commonly used dataset in machine learning for classification tasks. It consists of 150 samples of iris flowers, each belonging to one of three species: setosa, versicolor, or virginica.
 
 # Confusion Matrix:
+
+![image](https://github.com/MachineLearningProj/Iris-Classification/assets/154997146/c5398162-3133-4f9b-8786-2fb00a351a56)
+
 **1 Diagonal Elements:** 
 
 * Higher values on the diagonal are good; they represent correct predictions.
