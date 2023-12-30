@@ -6,7 +6,8 @@ The Iris dataset is a commonly used dataset in machine learning for classificati
 **Diagonal Elements:** 
 
 * Higher values on the diagonal are good; they represent correct predictions.
-* Look for big numbers on the main diagonal.
+* Look for big numbers on the main diagonal
+
  **Off-diagonal Elements:**
 
 * These indicate misclassifications.
